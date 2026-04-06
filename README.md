@@ -1,5 +1,5 @@
 ## Hi there👋 I’m YeowonKim
-### 🎓 B.S. in Data Science and Management, Tech University of Korea
+### 🎓 B.S. in Data Science and Management
 ### 💡 Interested in NLP
 ### 💻 [Python][C++][SQL]
 ### 📊 Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
