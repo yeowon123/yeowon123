@@ -1,6 +1,6 @@
 ## Hi there, I’m Yeowon👋
 
-I'm double majoring in **AI** and **Computer Science**
+I'm majoring in **AI**, with a double major in **Computer Science**
 - I'm interested in **NLP** - focusing on how AI understands, interprets, and interacts with human language.
 - I'm also passionate about **Data Analysis** — extracting meaningful insights from complex datasets.
 
