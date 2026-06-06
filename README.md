@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,100:C4B5FD&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDA4AF,100:D8B4FE&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:A855F7&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,100:FDBA74&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,100:A5B4FC&height=150&section=header)
 
 ## Hi there, I’m Yeowon👋
 
